@@ -1,4 +1,4 @@
-# MLBox
+# pokemoned
 
 [![npm version](https://badge.fury.io/js/MLBox.svg)](https://badge.fury.io/js/MLBox)
 [![Download Count](http://img.shields.io/npm/dm/MLBox.svg?style=flat)](https://www.npmjs.com/package/MLBox)
